@@ -1,0 +1,12 @@
+#test {
+    width: 500px;
+}
+section{
+    width: 20% ; /* 100%500 = .2 */
+}
+form{
+    width: 76% ; /* 380%500 = .76 */
+}
+section,form {
+    margin: 4%; /* 20%500 = .04 */
+}
