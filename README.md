@@ -6,8 +6,8 @@
 | Class  |                      Link                             |
 | ---    |  ---------------------------------------------------  |
 | Read01 |  https://farahzuot.github.io/Reading-notes301/read01  |
-|        |  https://farahzuot.github.io/Reading-notes301/read02  |
-|        |                                                       |
+| Read02 |  https://farahzuot.github.io/Reading-notes301/read02  |
+| Read02 |  https://farahzuot.github.io/Reading-notes301/read03  |
 |        |                                                       |
 |        |                                                       |
 |        |                                                       |
