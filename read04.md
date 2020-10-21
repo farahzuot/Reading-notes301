@@ -39,7 +39,7 @@
 
 ## Grid layout 
 
-### grid system is used to make the layout of our content, to make it displayed in a better way without cluttered , although there is another ways that grid such as floating and flexbox, it still has it's own advantage.
+### grid system is used to make the layout of our content, to make it displayed in a better way without cluttered , although there is another ways to make the layout such as floating and flexbox, it still has it's own advantage.
 
 #### first of all after selecting the container you should use the display property, it has a two options which are grid and inline grid. and there is a set of propery that are using with the grid system to create it in a good way. in the cildren side you need some properties such as : 
 
@@ -48,7 +48,7 @@
 3. grid-row-start
 4. grid-row-end
 
-#### there some short hand to right these for properties , the grid-column and the grid-row. also there is another great shorthand for these too ! it called the grid-area which accept a four values which are the above.
+#### there some short hand to write these four properties , the grid-column and the grid-row. also there is another great shorthand for these too ! it called the grid-area which accept a four values which are the above.
 #### also, there some other properties for the container such as :
 
 * grid-template-columns
