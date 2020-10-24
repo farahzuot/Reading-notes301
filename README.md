@@ -10,7 +10,7 @@
 | Read03 |  https://farahzuot.github.io/Reading-notes301/read03  |
 | Read04 |  https://farahzuot.github.io/Reading-notes301/read04  |
 | Read05 |  https://farahzuot.github.io/Reading-notes301/read05  |
-|        |                                                       |
+| Read06 |  https://farahzuot.github.io/Reading-notes301/read06  |
 |        |                                                       |
 |        |                                                       |
 |        |                                                       |
